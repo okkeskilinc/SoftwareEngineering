@@ -13,4 +13,3 @@
 • Her denetleyicinin hangi üniversitede çalıştığı. 
 • Sorular: yazılan her test sorusunun numarası (biricik), soru metni, doğru cevap, zorluk derecesi, yazarı (her soru bir ve yalnız bir soru yazarı tarafından yazılmaktadır) ve alt konusu (her soru bir ve yalnız bir alt konu ile ilgilidir). 
 • Yazılan her sorunun hangi denetleyiciler tarafından hangi tarihlerde denetlendiği ve her denetleyicinin soruyla ilgili görüşü. Soruların denetlenmeden veri tabanına girilmesi; daha sonra denetimler yapıldıkça da bu bilgilerin eklenmesi istenmektedir. Her soru en çok 3 denetleyici tarafından denetlenmektedir. 
-l
